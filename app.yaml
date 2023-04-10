@@ -1,0 +1,6 @@
+runtime:nodejs19
+
+env_variables:
+  DB_KEY: "abc"
+
+service: service1
